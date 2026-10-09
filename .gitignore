@@ -20,3 +20,12 @@ debug_dump.txt
 yos_full_context.txt
 roadmap_wm_complete.txt
 build_errors.log
+
+# Fichiers temporaires de debug et scripts de patch
+Base*
+next
+rsp
+state
+*.py
+dump_files.sh
+roadmap_*.txt
