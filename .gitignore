@@ -1,0 +1,22 @@
+# Fichiers de compilation et binaires
+build/
+bin/
+*.o
+*.iso
+*.bin
+*.elf
+isodir/
+
+# Fichiers temporaires et editeur
+*.swp
+*~
+.vscode/
+.idea/
+
+# Fichiers de dump, disques et logs
+*.img
+*.log
+debug_dump.txt
+yos_full_context.txt
+roadmap_wm_complete.txt
+build_errors.log
